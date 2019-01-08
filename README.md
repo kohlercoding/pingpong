@@ -1,4 +1,4 @@
 # Ping Pong Game
-This is for Windows **ONLY!!!**
+Supported platforms: Windows 7 and up
 
 A small Unity game based on the classic Ping Pong game.
